@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: Computer
+Build-Jdk: 15
+Implementation-Title: Ejemplo01
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: cs2031.utec.edu.pe
+Implementation-URL: http://www.example.com
+Created-By: Maven Integration for Eclipse
+
