@@ -1,7 +1,7 @@
 # htk5
 
 integrantes:
-1. matias castillo quincho
-2. estefano mauricio zarate manosalva
+1. matias castillo 
+2. estefano zarate 
 3. vasco sevil
 4. enzo gomes 
